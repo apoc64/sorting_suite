@@ -1,7 +1,8 @@
 class MergeSort {
-  constructor() {
-    
+  constructor(numbers) {
+    this.numbers = numbers
   }
+
 }
 
 module.exports = MergeSort
